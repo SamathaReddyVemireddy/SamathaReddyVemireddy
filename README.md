@@ -12,7 +12,14 @@ I'm a Data enthusiast on a journey to unlock the power of data analysis and data
 Email: samathamunny9@gmail.com  
 
 ## 🛠 Technical Skills
-SQL, PYTHON(NumPy, Pandas, Scikit-Learn, Matplotlib, Machine Learning), R, POWER BI, TABLEAU, SNOWFLAKE
+![MS SQL](https://img.shields.io/badge/MS%20SQL-grey?logo=microsoft-sql-server)
+![Snowflake](https://img.shields.io/badge/Snowflake-blue?logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-green?logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-orange?logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-yellow?logo=power-bi&logoColor=white)
+![R](https://img.shields.io/badge/R-blue?logo=r&logoColor=white)
+##### Machine Learning Libraries
+⚙️ **NumPy** , 🐼 **Pandas**, 🧠 **Scikit-Learn**,  🚀 **PyTorch**, 🌌 **TensorFlow**
 
 ## 📋Projects
 ### [Call-Center Data Cleaning and Analysis with MySQL](https://github.com/SamathaReddyVemireddy/Call-Center-Data-Cleaning-and-Analysis-with-MySQL)
