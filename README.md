@@ -1,7 +1,4 @@
 
-# Hi, I'm Samatha! 👋
-
-
 ## 🚀 About Me
 I'm a Data enthusiast on a journey to unlock the power of data analysis and data science for meaningful discoveries.
 
