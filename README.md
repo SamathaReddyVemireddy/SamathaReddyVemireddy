@@ -19,4 +19,4 @@ SQL, PYTHON(NumPy, Pandas, Scikit-Learn, Matplotlib, Machine Learning), R, POWER
 ### [Call-Center Data Cleaning and Analysis with MySQL](https://github.com/SamathaReddyVemireddy/Call-Center-Data-Cleaning-and-Analysis-with-MySQL)
 1. Created a MySQL database and structured table for call-center data.
 2. Analyzed data, calculated key statistics, and employed window functions to assess call center performance.
-[![callcenter](images/call_center.png)
+ ![callcenter](images/call_center.png)
