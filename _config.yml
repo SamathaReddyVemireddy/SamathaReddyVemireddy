@@ -1,4 +1,11 @@
-layout: default
 theme: jekyll-theme-cayman
 title: SAMATHA REDDY VEMIREDDY
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      title: "Your Custom Title"
 
