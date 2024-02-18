@@ -1,9 +1,4 @@
-[Home](#about)  |
-[About](#about)  |
-[Profile Links](#profile-links)  |
-[Contact](#how-to-reach-me)  |
-[Technical Skills](#technical-skills)  |
-[Projects](#projects)  |
+[Home](#about)  |  [About](#about)  |  [Profile Links](#profile-links)  |  [Contact](#how-to-reach-me)  |  [Technical Skills](#technical-skills)  |  [Projects](#projects)  |
 
 # SAMATHA REDDY VEMIREDDY
 
