@@ -6,7 +6,7 @@ I'm a Data enthusiast on a journey to unlock the power of data analysis and data
 <img align="right" alt="coding" width="400" src = "https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 ## 🔗 Profile Links
-[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samathareddyvemireddy.github.io/SamathaReddyVemireddy/)
+[![portfolio](https://img.shields.io/badge/portfolio-808080?style=for-the-badge&logo=ko-fi&logoColor=white)](https://samathareddyvemireddy.github.io/SamathaReddyVemireddy/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samatha-reddy-vemireddy/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SamathaReddyVemireddy)
 
