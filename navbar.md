@@ -1,6 +1,0 @@
-[Home](#-SAMATHA-REDDY-VEMIREDDY)
-[About](##-About-Me)
-[Profile Links](##-Profile-Links)
-[Contact](##-How-to-reach-me)
-[Technical Skills](##-Technical-Skills)
-[Projects](##-Projects)
