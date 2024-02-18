@@ -1,3 +1,4 @@
+[![Navbar](navbar.md)]
 # SAMATHA REDDY VEMIREDDY
 
 ## 🚀 About Me
